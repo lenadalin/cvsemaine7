@@ -1,0 +1,22 @@
+body {
+        background-image:(url)images/fond.jpg;
+    }
+    
+h2   {
+        
+        font-family: Helvetica, Arial, serif;
+        color:#4c4c33;
+
+}
+
+p    {
+        font-family: Georgia, Arial, serif;
+        color:#7a7a52;
+}
+
+h1    {
+        font-family: Impact, Arial, serif;
+        color:#4c4c33;
+        background-color: #a3a375;
+}
+
